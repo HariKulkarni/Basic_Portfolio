@@ -37,8 +37,7 @@ KLE Tech University, Hubballi
 ## 📞 Contact
 - **Email:** kulkarniharish4102000@gmail.com
 - **Phone:** +91 8971204097
-- **GitHub:** https://github.com/HariKulkarni
-- **LinkedIn:** https://www.linkedin.com/in/kulkarniharish
+
 
 ## 🚀 How to Use
 1. Download or clone this repository
